@@ -38,7 +38,7 @@ Throughout my journey in software development, I've encountered various challeng
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-I am actively expanding my skill set, currently exploring web development with HTML and CSS in next semesters modules. My journey in tech is dynamic, and I am enthusiastic about adding more tools and languages to my repertoire.
+I am actively expanding my skill set, currently exploring web development with HTML and CSS in next semester's modules. My journey in tech is dynamic, and I am enthusiastic about adding more tools and languages to my repertoire.
 
 ### Community Engagement 👐
 
@@ -56,7 +56,7 @@ I am always open to collaborating on a range of projects! Whether with fellow st
 
 #### 💬 Hobbies:
 
-- **Music**: Deeply passionate about music, I enjoy singing, playing the guitar, and piano. I hold a first-class honours degree in music, have taught music for many years, and also have a Grade V distinction in classical piano.
+- **Music**: Deeply passionate about music, I enjoy singing, and playing the guitar, and piano. I hold a first-class honors degree in music, have taught music for many years, and also have a Grade V distinction in classical piano.
 - **Gardening**: I find joy in gardening, spending time planting and nurturing flowers.
 
 #### 📫 How to Reach Me:
