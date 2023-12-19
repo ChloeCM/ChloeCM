@@ -2,7 +2,7 @@
 
 I am a Software Development student at ATU Galway, primarily focusing on Java. My studies also included subjects like Network Technologies and Computer Architecture, with more modules to follow.
 
-#### 🌱 What I'm Currently Learning:
+#### 📚 What I'm Currently Learning:
 
 - Java (Primary Language)
 - Network Technologies
@@ -40,7 +40,7 @@ Throughout my journey in software development, I've encountered various challeng
 
 I am actively expanding my skill set, currently exploring web development with HTML and CSS in next semester's modules. My journey in tech is dynamic, and I am enthusiastic about adding more tools and languages to my repertoire.
 
-### Community Engagement 👐
+### 👐 Community Engagement
 
 As I delve deeper into the world of software development, I am eager to engage with various tech communities. My passion for learning and collaboration makes me an ideal participant in environments where growth and teamwork are prioritized. I'm actively seeking opportunities to engage, contribute, and develop within the software development community.
 
@@ -54,7 +54,7 @@ I am always open to collaborating on a range of projects! Whether with fellow st
 - To further strengthen my programming skills, especially in Java.
 - Seeking an internship or job that aligns with my interests and skills in software development.
 
-#### 💬 Hobbies:
+#### 💬 🌸 Hobbies:
 
 - **Music**: Deeply passionate about music, I enjoy singing, and playing the guitar, and piano. I hold a first-class honors degree in music, have taught music for many years, and also have a Grade V distinction in classical piano.
 - **Gardening**: I find joy in gardening, spending time planting and nurturing flowers.
@@ -63,7 +63,7 @@ I am always open to collaborating on a range of projects! Whether with fellow st
 
 - [LinkedIn](https://chat.openai.com/c/www.linkedin.com/in/chloe-c-mills)
 - [Email](chloecmills@gmail.com) 
-👋
+
 
 <!--
 **ChloeCM/ChloeCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
