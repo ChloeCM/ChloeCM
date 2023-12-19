@@ -40,24 +40,10 @@ Throughout my journey in software development, I've encountered various challeng
 
 I am actively expanding my skill set, currently exploring web development with HTML and CSS in next semester's modules. My journey in tech is dynamic, and I am enthusiastic about adding more tools and languages to my repertoire.
 
-### 👐 Community Engagement
-
-As I delve deeper into the world of software development, I am eager to engage with various tech communities. My passion for learning and collaboration makes me an ideal participant in environments where growth and teamwork are prioritized. I'm actively seeking opportunities to engage, contribute, and develop within the software development community.
-
-### 🤝 Collaboration Opportunities
-
-I am always open to collaborating on a range of projects! Whether with fellow students or experienced professionals, I value the opportunity to learn and grow through shared experiences. Whether it's a project idea or a general conversation, I'm all ears!
-
-
 #### 📈 Personal Goals:
 
 - To further strengthen my programming skills, especially in Java.
 - Seeking an internship or job that aligns with my interests and skills in software development.
-
-#### 💬 🌸 Hobbies:
-
-- **Music**: Deeply passionate about music, I enjoy singing, and playing the guitar, and piano. I hold a first-class honors degree in music, have taught music for many years, and also have a Grade V distinction in classical piano.
-- **Gardening**: I find joy in gardening, spending time planting and nurturing flowers.
 
 #### 📫 How to Reach Me:
 
