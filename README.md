@@ -18,7 +18,7 @@ I am a Software Development student at ATU Galway, primarily focusing on Java. M
 
 - **Networking with Cisco (1st Year, Individual Project)**: Designed a network for an office space of approximately 60 users, honing my skills in network management, design, and troubleshooting using tools like Wireshark and Cisco.
 - **Network Programming Project using Java (1st Year, Individual Project)**: Developed a client-server chat application using Java Socket API, enhancing my skills in network communication, Java development, and real-time communication.
-- **Java File Encryption and Decryption (1st Year, Individual Project)**: Focused on Java programming fundamentals through text encryption/decryption projects, improving my IDE proficiency and problem-solving skills.
+- **[Java File Encryption and Decryption](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**: Focused on Java programming fundamentals through text encryption/decryption projects, improving my IDE proficiency and problem-solving skills.
 
 #### 🎯 Upcoming Project:
 
