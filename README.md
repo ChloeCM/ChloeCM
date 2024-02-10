@@ -7,7 +7,7 @@ I am a Software Development student at ATU Galway, primarily focusing on Java. M
 - Java (Primary Language)
 - Network Technologies
 - Computer Architecture
-- Algorithms
+- Computational Thinking with Algorithms
 - Web Applications Development
 - Database Design and Development
 - Operating Systems and Cloud Computing
