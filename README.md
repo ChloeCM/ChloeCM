@@ -23,11 +23,13 @@ As a final-year Software Engineering student at Atlantic Technological Universit
 - **[Network Programming Project using Java](https://github.com/ChloeCM/Network-Programming-Project-using-Java) (1st Year, Individual Project)**: Developed a client-server chat application using Java Socket API, enhancing my skills in network communication, Java development, and real-time communication.
 - **[Java File Encryption and Decryption](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**: Focused on Java programming fundamentals through text encryption/decryption projects, improving my IDE proficiency and problem-solving skills.
 - **[Sentiment Analysis with Virtual Threads](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**:
-
+A Java-based application designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
 
 #### 🎯 Upcoming Project:
 
-- **Sentiment Analysis with Virtual Threads**: Aiming to deepen my understanding of Java in data analysis and natural language processing, involving processing tweets to report overall sentiment.
+- **Web Application Development**: Specifics are TBC - Design a website using HTML, CSS, and JavaScript.
+- **Computational Thinking with Algorithms**: Specifics are TBC - 
+- **Database Design and Development**: Specifics are TBC - Modelling, building and managing a database using SQL.
 
 ### 💪 Overcoming Challenges
 
@@ -47,6 +49,7 @@ I am actively expanding my skill set, currently exploring web development with H
 
 #### 📈 Personal Goals:
 
+- To secure a position in front-end development where I can blend my creativity with software engineering. 
 - To further strengthen my programming skills, especially in Java.
 - Seeking an internship or job that aligns with my interests and skills in software development.
 
