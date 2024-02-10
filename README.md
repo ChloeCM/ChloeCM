@@ -1,6 +1,7 @@
 ### Hi there, I'm Chloe 👋
 
-I am a Software Development student at ATU Galway, primarily focusing on Java. My studies also included subjects like Network Technologies and Computer Architecture, with more modules to follow.
+As a final-year Software Engineering student at Atlantic Technological University - Galway, I've maintained a GPA of 95%, with a strong focus on Java programming with a passion for front-end development. I am eager to blend my creativity and software engineering skills to contribute to innovative projects, focusing on creating captivating user experiences. My goal is to secure a role in front-end development where I can enhance my skills and make a smooth transition into the industry.
+
 
 #### 📚 What I'm Currently Learning:
 
@@ -14,11 +15,15 @@ I am a Software Development student at ATU Galway, primarily focusing on Java. M
 - Agile Software Development
 - Mobile Application Development
 
+  
+
 #### 💼 Projects:
 
 - **[Networking with Cisco](https://github.com/ChloeCM/-Networking-with-Cisco-Packet-Tracer/tree/main) (1st Year, Individual Project)**: Designed a network for an office space of approximately 60 users, honing my skills in network management, design, and troubleshooting using tools like Cisco.
 - **[Network Programming Project using Java](https://github.com/ChloeCM/Network-Programming-Project-using-Java) (1st Year, Individual Project)**: Developed a client-server chat application using Java Socket API, enhancing my skills in network communication, Java development, and real-time communication.
 - **[Java File Encryption and Decryption](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**: Focused on Java programming fundamentals through text encryption/decryption projects, improving my IDE proficiency and problem-solving skills.
+- **[Sentiment Analysis with Virtual Threads](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**:
+
 
 #### 🎯 Upcoming Project:
 
