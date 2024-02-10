@@ -28,7 +28,7 @@ A Java-based application designed for analysing sentiments expressed in tweets u
 #### 🎯 Upcoming Project:
 
 - **Web Application Development**: Specifics are TBC - Design a website using HTML, CSS, and JavaScript.
-- **Computational Thinking with Algorithms**: Specifics are TBC - 
+- **Computational Thinking with Algorithms**: Specifics are TBC
 - **Database Design and Development**: Specifics are TBC - Modelling, building and managing a database using SQL.
 
 ### 💪 Overcoming Challenges
