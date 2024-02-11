@@ -26,6 +26,7 @@ As a final-year Software Engineering student at Atlantic Technological Universit
 A Java-based application designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral.
 - **[Expanding Cards](https://github.com/ChloeCM/Expanding-Cards)**: Implemented an interactive web feature using HTML, CSS, and JavaScript that allows users to click on a series of cards/ images to see them expand and reveal more information, demonstrating the ability to create engaging UI elements.
 - **[Progress Navigation Bar](https://github.com/ChloeCM/Progress-Navigation-Bar)**: Developed a dynamic progress bar using HTML, CSS, and JavaScript, which visually indicates to users how far they have progressed through a form or survey, enhancing user experience through clear visual cues.
+- **[Loading Page - Blurry Image](https://github.com/ChloeCM/Loading-Page-Blurry-Image)**: Crafted a custom loading page with HTML, CSS, and JavaScript, showcasing creative use of animations and transitions to improve the user's wait time experience.
 
 #### 🎯 Upcoming Project:
 
