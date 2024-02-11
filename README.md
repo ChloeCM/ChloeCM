@@ -23,7 +23,8 @@ As a final-year Software Engineering student at Atlantic Technological Universit
 - **[Network Programming Project using Java](https://github.com/ChloeCM/Network-Programming-Project-using-Java) (1st Year, Individual Project)**: Developed a client-server chat application using Java Socket API, enhancing my skills in network communication, Java development, and real-time communication.
 - **[Java File Encryption and Decryption](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**: Focused on Java programming fundamentals through text encryption/decryption projects, improving my IDE proficiency and problem-solving skills.
 - **[Sentiment Analysis with Virtual Threads](https://github.com/ChloeCM/Sentiment-Analysis-with-Virtual-Threads/tree/main) (1st Year, Individual Project)**:
-A Java-based application designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral. 
+A Java-based application designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral.
+- **[Expanding Cards](https://github.com/ChloeCM/Expanding-Cards)**: 
 
 #### 🎯 Upcoming Project:
 
