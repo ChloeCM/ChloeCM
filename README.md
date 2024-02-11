@@ -58,6 +58,6 @@ I am actively expanding my skill set, currently exploring web development with H
 
 #### 📫 How to Reach Me:
 
-- [LinkedIn](https://chat.openai.com/c/www.linkedin.com/in/chloe-c-mills)
+- [LinkedIn](https://www.linkedin.com/in/chloe-c-mills/)
 - [Email](chloecmills@gmail.com) 
 
