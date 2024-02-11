@@ -24,7 +24,7 @@ As a final-year Software Engineering student at Atlantic Technological Universit
 - **[Java File Encryption and Decryption](https://github.com/ChloeCM/File-Encryption-using-2D-Arrays) (1st Year, Individual Project)**: Focused on Java programming fundamentals through text encryption/decryption projects, improving my IDE proficiency and problem-solving skills.
 - **[Sentiment Analysis with Virtual Threads](https://github.com/ChloeCM/Sentiment-Analysis-with-Virtual-Threads/tree/main) (1st Year, Individual Project)**:
 A Java-based application designed for analysing sentiments expressed in tweets using virtual threads to handle large volumes of tweet data efficiently. The application allows a user to choose one or more lexicons to assess whether the overall sentiment in a tweet is positive, negative, or neutral.
-- **[Expanding Cards](https://github.com/ChloeCM/Expanding-Cards)**: 
+- **[Expanding Cards](https://github.com/ChloeCM/Expanding-Cards)**: Implemented an interactive web feature using HTML, CSS, and JavaScript that allows users to click on a series of cards/ images to see them expand and reveal more information, demonstrating the ability to create engaging UI elements.
 
 #### 🎯 Upcoming Project:
 
