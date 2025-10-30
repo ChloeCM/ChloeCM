@@ -8,7 +8,7 @@
 
 
 ### 🧩 Featured Projects
-- **[Office Network Design – Cisco Packet Tracer](https://github.com/ChloeCM/Networking-with-Cisco-Packet-Tracer)**  
+- **[Office Network Design – Cisco Packet Tracer](https://github.com/ChloeCM/-Networking-with-Cisco-Packet-Tracer)**  
   Simulated a 60-user office network with VLAN segmentation, routing, and DHCP configuration. Tested performance and reliability using Wireshark.
 
 - **[Network Programming – Java Sockets](https://github.com/ChloeCM/YourJavaSocketsProject)**  
