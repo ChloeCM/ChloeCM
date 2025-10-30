@@ -17,7 +17,7 @@
 - **[Java Banking App (JUnit Testing)](https://github.com/ChloeCM/YourBankingApp)**  
   Implemented deposit and loan logic with automated unit tests for reliability.
 
-- **[Chrome Extension – Real-Time Clock & Weather](https://github.com/ChloeCM/YourChromeExtension)**  
+- **[Chrome Extension – Real-Time Clock & Weather](https://github.com/ChloeCM/personal-dashboard)**  
   Built with REST APIs, JavaScript, and CSS to display live weather and time within the browser.
 
 ---
