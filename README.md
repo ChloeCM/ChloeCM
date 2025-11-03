@@ -6,8 +6,12 @@
 
 ---
 
+https://github.com/ChloeCM/small-business-network
 
 ### 🧩 Featured Projects
+- **[Small Business Network – Cisco Packet Tracer](https://github.com/ChloeCM/small-business-network)**
+  Designed and implemented a three-branch small business network in Cisco Packet Tracer over a WAN. Configured routers with static routing and serial DCE/DTE links, created subnetted LANs with DHCP servers for automatic IP assignment, and set up printers, switches, and PCs for full LAN/WAN communication.
+
 - **[Office Network Design – Cisco Packet Tracer](https://github.com/ChloeCM/-Networking-with-Cisco-Packet-Tracer)**  
   Simulated a 60-user office network with VLAN segmentation, routing, and DHCP configuration. Tested performance and reliability using Wireshark.
 
