@@ -6,7 +6,6 @@
 
 ---
 
-https://github.com/ChloeCM/small-business-network
 
 ### 🧩 Featured Projects
 - **[Small Business Network – Cisco Packet Tracer](https://github.com/ChloeCM/small-business-network)**
@@ -15,7 +14,7 @@ https://github.com/ChloeCM/small-business-network
 - **[Office Network Design – Cisco Packet Tracer](https://github.com/ChloeCM/-Networking-with-Cisco-Packet-Tracer)**  
   Simulated a 60-user office network with VLAN segmentation, routing, and DHCP configuration. Tested performance and reliability using Wireshark.
 
-- **[Network Programming – Java Sockets](https://github.com/ChloeCM/YourJavaSocketsProject)**  
+- **[Network Programming – Java Sockets](https://github.com/ChloeCM/Network-Programming-Project-using-Java)**  
   Client–server chat application demonstrating real-time communication and networking principles.
 
 - **[Java Banking App (JUnit Testing)](https://github.com/ChloeCM/YourBankingApp)**  
