@@ -1,4 +1,10 @@
-### Hi. I'm Chloe 👋  
+### Hi. I'm Chloe 👋 
+
+![IT Support](https://img.shields.io/badge/IT%20Support-L1-blue)
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-blue)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7)
+
 
 🎓 Graduate IT Support / L1 candidate with a First-Class Honours degree in Software Development (GPA 87.9%) from Atlantic Technological University Galway.
 
